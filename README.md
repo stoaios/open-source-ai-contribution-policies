@@ -25,7 +25,7 @@ A list of policies by different open source projects about how to engage with AI
 - [Linux man-pages](): [AI - artificial intelligence policy](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/CONTRIBUTING.d/ai)
 - [NetBSD](https://www.netbsd.org/): [NetBSD Commit Guidelines](https://www.netbsd.org/developers/commit-guidelines.html)
 - [Apache DataFusion](https://datafusion.apache.org): [AI-Assisted contributions](https://datafusion.apache.org/contributor-guide/index.html#ai-assisted-contributions)
-- [Apache Kvrocks](Apache Kvrocks): [Guidelines for AI-assisted Contributions](https://kvrocks.apache.org/community/contributing/#guidelines-for-ai-assisted-contributions)
+- [Apache Kvrocks](https://kvrocks.apache.org/): [Guidelines for AI-assisted Contributions](https://kvrocks.apache.org/community/contributing/#guidelines-for-ai-assisted-contributions)
 - [Apache® Software Foundation (ASF)](https://www.apache.org/): [ASF Generative Tooling Guidance](https://www.apache.org/legal/generative-tooling.html)
 - [IREE (Intermediate Representation Execution Environment)](https://iree.dev/): [AI tool use](https://iree.dev/developers/general/contributing/#ai-tool-use)
 
